@@ -1,0 +1,15 @@
+SECRET_KEY=django-insecure-=i4(bl$(^8c1g)!m(v0h7o-nbfrmtd0f(whq@769+5utbch)oo
+DEBUG=True
+
+
+
+# PostgreSQL URL format: postgres://USER:PASSWORD@HOST:PORT/NAME
+DATABASE_URL=postgres://testing:123456@localhost:5433/mydatabase
+
+# database_connections
+# DB_NAME=mydatabase
+# DB_USER=testing
+# DB_PASSWORD=123456
+# DB_HOST=localhost
+# DB_PORT=5433
+
