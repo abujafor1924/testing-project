@@ -75,6 +75,8 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'backend.wsgi.application'
+# settings.py
+AUTH_USER_MODEL = 'testapp.User'
 
 
 # Database
